@@ -5,8 +5,6 @@
         <img src="https://img.shields.io/badge/version-2.0-informational" /></a>
 </div>
 
-Fork the numlet
-
 # Numlet
 
 Numlet es una pequeña librería basada en Python capaz de convertir más de dos duocentillones de números diferentes a letras. 
