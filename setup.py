@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Paquete-nlt-roylanmartinez",
+    name="numlet",
     version="2.0.0",
     author="Roylan Martinez Vargas",
     author_email="roylanmartinez97@gmail.com",
